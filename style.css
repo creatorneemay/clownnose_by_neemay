@@ -7,6 +7,7 @@ h3{
 canvas{
     border: 5px solid red;
     animation: example 2s infinite;
+    margin-top: 100px;
 }
 @keyframes example{
     from{box-shadow: 10px 10px 5px blue;}

@@ -30,3 +30,6 @@ function draw(){
     circle(nosex,nosey,20);
     image(clownnose,nosex-16,nosey-16,40,40);
 }
+function takesnapshot(){
+    save('NeemayIsGreat.jpg')
+}
